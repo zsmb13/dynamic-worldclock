@@ -1,0 +1,8 @@
+{
+  "domain": "dynamic-worldclock",
+  "name": "Dynamic Worldclock",
+  "codeowners": [""],
+  "documentation": "",
+  "iot_class": "calculated",
+  "version": "0.1.0"
+}
